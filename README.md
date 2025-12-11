@@ -160,7 +160,7 @@ The output will be in the `dist/` folder.
 
 ## 📖 How to Use
 
-1.  **First Login**: The default Master Password is `anhpham14079`. You can change this in Settings.
+1.  **First Login**: The default Master Password is `password1234`. You can change this in Settings.
 2.  **Add Books**: Click the **"+ Add Book"** button. You can select files or upload an entire folder.
 3.  **Organize**:
     *   **Edit**: Click a book to view details, then click "Edit".

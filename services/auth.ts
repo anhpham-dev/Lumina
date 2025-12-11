@@ -36,7 +36,7 @@ export const authService = {
       localStorage.removeItem('lumina_auth_config');
 
       console.log("Initializing default master password...");
-      const passwordHash = await hash('anhpham14079');
+      const passwordHash = await hash('password1234');
       const defaultConfig: AuthConfig = {
         passwordHash
       };
