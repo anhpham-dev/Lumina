@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Bookshelf",
+  "description": "A modern, minimalist digital bookshelf for managing your EPUB, PDF, and AZW3 collections. Features AI-powered metadata extraction and persistent local storage.",
+  "requestFramePermissions": []
+}
